@@ -16,6 +16,8 @@ Acredito que conhecimento e determinação são pilares essenciais para qualquer
 
 </p>
 
+[![fernandosgodoy GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosgodoy)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **fernandosgodoy/fernandosgodoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
