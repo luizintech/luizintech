@@ -5,7 +5,7 @@
 </a>
 
 <a href="mailto:luizfernando.itpro@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.vilsonsampaio@gmail.com" alt="E-mail">
+<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizfernando.itpro@gmail.com" alt="E-mail">
 </a>
 
 <p>
