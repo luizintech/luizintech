@@ -10,7 +10,7 @@
 
 <p>
 
-Meu nome é Luiz Fernando, tenho 37 anos e sou de São Paulo-SP. Em 2012, comecei a encarar projetos de desenvolvimento de software junto a comunidade e algumas empresas como freelancer e aproveitei para embarcar de cabeça no mundo da programação e, desde então, me apaixono cada vez mais por esse universo amplo, repleto de oportunidades e de desafios incríveis. 
+Meu nome é Luiz Fernando, tenho 38 anos e sou de São Paulo-SP. Em 2012, comecei a encarar projetos de desenvolvimento de software junto a comunidade e algumas empresas como freelancer e aproveitei para embarcar de cabeça no mundo da programação e, desde então, me apaixono cada vez mais por esse universo amplo, repleto de oportunidades e de desafios incríveis. 
 
 Acredito que conhecimento e determinação são pilares essenciais para qualquer transformação de vida, onde temos a oportunidade mudar tudo ao redor. Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante esse tempo e alguns portifólios. Espero que goste! :) 
 
