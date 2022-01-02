@@ -9,11 +9,51 @@
 </a>
 
 <p>
+Hi there! My name is Luiz Fernando and I'm 38 yo and I'm from São Paulo-Brazil.
+I started my carrer like software developer in 1999 with PHP, Javascript and Visual Basic languages and 
+since then, I never stopped to update my knowledge in this area.
 
-Meu nome é Luiz Fernando, tenho 38 anos e sou de São Paulo-SP. Em 2012, comecei a encarar projetos de desenvolvimento de software junto a comunidade e algumas empresas como freelancer e aproveitei para embarcar de cabeça no mundo da programação e, desde então, me apaixono cada vez mais por esse universo amplo, repleto de oportunidades e de desafios incríveis. 
+In 2012, when I was in pos graduate course in Software Engineering, I created a blog website and share
+always when I can some ideas, bug fixing and IT tutorials. 
+I'm much interested in the developer community projects and I try sometimes to contribute to some projects.
 
-Acredito que conhecimento e determinação são pilares essenciais para qualquer transformação de vida, onde temos a oportunidade mudar tudo ao redor. Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante esse tempo e alguns portifólios. Espero que goste! :) 
+Besides my fixed working times, I always is focused in be involved in software development projects,
+may be personal or freelances projects (it's very important to maintain the knowledge and drill 
+another approaches).
 
+I believe in knowledge and resilience to transform my life and all around me. 
+Languages that I am actually specialist: .NET Core / Framework, PHP Laravel (LAMP Stack), 
+Node (Express/Nest.js), Angular (2.x) / AngularJs, VueJs.
+DevOps skills and MSSQL Certificate Professional
+
+
+So, enjoy the page.
+Regards!
+  
+</p>
+
+<p>
+
+  <span style="color:#ccc;">[Portuguese]</span>
+
+Olá! Meu nome é Luiz Fernando, tenho 38 anos e sou de São Paulo-Brasil.
+Comecei minha carreira como desenvolvedor de software em 1999 com as linguagens PHP, 
+Javascript e Visual Basic e desde então, nunca mais parei de atualizar meus conhecimentos nessa área.
+
+Em 2012, quando fazia pós graduação em Engenharia de Software, criei um blog e compartilhei
+sempre quando posso algumas idéias, correção de bugs e tutoriais de TI.
+Estou muito interessado nos projetos da comunidade de desenvolvedores 
+e tento às vezes contribuir para alguns projetos.
+
+Além dos meus horários fixos de trabalho, estou sempre focado em estar envolvido 
+em projetos de desenvolvimento de software,
+podem ser projetos pessoais ou freelance (é muito importante manter o conhecimento e treinar
+outras abordagens, é meu laboratório :) ).
+
+Acredito no conhecimento e na resiliência para transformar minha vida e tudo ao meu redor.
+Linguagens nas quais sou especialista: .NET Core / Framework, PHP Laravel (LAMP Stack),
+Node (Express / Nest.js), Angular (2.x) / AngularJs, VueJs.
+Habilidades DevOps e Certificado em MSSQL Server
 </p>
 
 ![fernandosgodoy GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosgodoy&show_icons=true&count_private=true&theme=dark)
