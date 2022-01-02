@@ -34,7 +34,7 @@ Regards!
 
 <p>
 
-  <span style="color:#ccc;">[Portuguese]</span>
+  #### [Portuguese]
 
 Olá! Meu nome é Luiz Fernando, tenho 38 anos e sou de São Paulo-Brasil.
 Comecei minha carreira como desenvolvedor de software em 1999 com as linguagens PHP, 
