@@ -17,7 +17,7 @@ In 2012, when I was in pos graduate course in Software Engineering, I created a 
 always when I can some ideas, bug fixing and IT tutorials. 
 I'm much interested in the developer community projects and I try sometimes to contribute to some projects.
 
-Besides my fixed working times, I always is focused in be involved in software development projects,
+Besides my fixed working time, I always is focused in be involved in software development projects,
 may be personal or freelances projects (it's very important to maintain the knowledge and drill 
 another approaches).
 
