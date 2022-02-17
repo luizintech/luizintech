@@ -36,24 +36,18 @@ Regards!
 
   #### [Portuguese]
 
-Olá! Meu nome é Luiz Fernando, tenho 38 anos e sou de São Paulo-Brasil.
-Comecei minha carreira como desenvolvedor de software em 1999 com as linguagens PHP, 
-Javascript e Visual Basic e desde então, nunca mais parei de atualizar meus conhecimentos nessa área.
+Olá! Meu nome é Luiz Fernando, tenho 38 anos e sou de São Paulo.
+Em 1999, tive a oportunidade de estagiar em uma empresa de Tecnologia iniciando com Suporte e Manutenção de Redes e no mesmo ano tive o meu primeiro contato com o Javascript e o ASP e PHP.
 
-Em 2012, quando fazia pós graduação em Engenharia de Software, criei um blog e compartilhei
-sempre quando posso algumas idéias, correção de bugs e tutoriais de TI.
-Estou muito interessado nos projetos da comunidade de desenvolvedores 
-e tento às vezes contribuir para alguns projetos.
+No decorrer desta trajetória, tive a oportunidade de trabalhar com o desenvolvimento no Visual Studio logo nas primeiras versões (.NET Framework 1.0 e 1.1), com a linguagem VB.NET e após o C#.
 
-Além dos meus horários fixos de trabalho, estou sempre focado em estar envolvido 
-em projetos de desenvolvimento de software,
-podem ser projetos pessoais ou freelance (é muito importante manter o conhecimento e treinar
-outras abordagens, é meu laboratório :) ).
+Gosto muito de desafios e novos frameworks e tenho incluído aqui neste repositório alguns exemplos do que estou pesquisando.
 
-Acredito no conhecimento e na resiliência para transformar minha vida e tudo ao meu redor.
-Linguagens nas quais sou especialista: .NET Core / Framework, PHP Laravel (LAMP Stack),
+Linguagens nas quais sou especialista: 
+.NET Core / .NET Framework, PHP Laravel (LAMP Stack),
 Node (Express / Nest.js), Angular (2.x) / AngularJs, VueJs.
 Habilidades DevOps e Certificado em MSSQL Server
+  
 </p>
 
 ![fernandosgodoy GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosgodoy&show_icons=true&count_private=true&theme=dark)
