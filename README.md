@@ -9,26 +9,17 @@
 </a>
 
 <p>
-Hi there! My name is Luiz Fernando and I'm 38 yo and I'm from São Paulo-Brazil.
-I started my carrer like software developer in 1999 with PHP, Javascript and Visual Basic languages and 
-since then, I never stopped to update my knowledge in this area.
+Hi! My name is Luiz Fernando, I'm 38 years old and I'm from São Paulo.
+In 1999, I had the opportunity to do an internship in a technology company starting with Network Support and Maintenance and in the same year my first contact with Javascript and ASP and PHP.
 
-In 2012, when I was in pos graduate course in Software Engineering, I created a blog website and share
-always when I can some ideas, bug fixing and IT tutorials. 
-I'm much interested in the developer community projects and I try sometimes to contribute to some projects.
+During this trajectory, there was the opportunity to work with the development of the Visual Studio logo in the first versions (.NET Framework 1.0 and 1.1), with the VB.NET language and after the C#.
 
-Besides my fixed working time, I always is focused in be involved in software development projects,
-may be personal or freelances projects (it's very important to maintain the knowledge and drill 
-another approaches).
+I like challenges and new frameworks and have included research in these various examples of what I'm doing.
 
-I believe in knowledge and resilience to transform my life and all around me. 
-Languages that I am actually specialist: .NET Core / Framework, PHP Laravel (LAMP Stack), 
-Node (Express/Nest.js), Angular (2.x) / AngularJs, VueJs.
-DevOps skills and MSSQL Certificate Professional
-
-
-So, enjoy the page.
-Regards!
+Languages I specialize in:
+.NET Core / .NET Framework, PHP Laravel (LAMP Stack),
+Node (Express / Nest.js), Angular (2.x) / AngularJs, VueJs.
+DevOps Skills and Certificates in MSSQL Server
   
 </p>
 
