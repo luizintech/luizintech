@@ -9,7 +9,8 @@
 </a>
 
 <p>
-Hi! My name is Luiz Fernando, I'm 38 years old and I'm from São Paulo.
+Hi! My name is Luiz Fernando, I'm 39 years old and I'm from São Paulo. Actually I'm living in Lisbon working in home-office model.
+  
 In 1999, I had the opportunity to do an internship in a technology company starting with Network Support and Maintenance and in the same year my first contact with Javascript and ASP and PHP.
 
 During this trajectory, there was the opportunity to work with the development of the Visual Studio logo in the first versions (.NET Framework 1.0 and 1.1), with the VB.NET language and after the C#.
