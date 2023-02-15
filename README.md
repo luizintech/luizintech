@@ -9,13 +9,38 @@
 </a>
 
 <p>
-Hi! My name is Luiz Fernando, I'm 39 years old and I'm from São Paulo. Actually I'm living in Lisbon working in home-office model.
-  
-In 1999, I had the opportunity to do an internship in a technology company starting with Network Support and Maintenance and in the same year my first contact with Javascript and ASP and PHP.
+My name is Fernando, I'm 39 years old, I'm from São Paulo, Brazil, and I started my career in the
+IT in 1999, working in user support and PC maintenance while in teaching
+medium, and this was my first contact with some programming languages like PHP,
+Javascript, Delphi and VB. 
 
-During this trajectory, there was the opportunity to work with the development of the Visual Studio logo in the first versions (.NET Framework 1.0 and 1.1), with the VB.NET language and after the C#.
+So, I remember that I was very interested in discovering problems,
+investigating environmental problems, and it was in 2002 that I started my career as
+software developer working with Visual Studio, .NET Framework and Microsoft SQL
+Server.
 
-I like challenges and new frameworks and have included research in these various examples of what I'm doing.
+Since then I spent most of my time between 2005 and 2014 working as a developer
+backend with .NET Framework, .NET Core, Microsoft SQL Server, in the main companies in Brazil
+such as banks, insurance companies, industry, retail, etc.
+
+Another important moment in my career was in 2014, when I decided to explore some
+new stacks outside Microsoft products or ecosystem exploring some new frameworks
+Javascript like Angular, VueJs, PHP Laravel and others. Although I went through these other
+stacks, it is worth emphasizing that my hard background is development in csharp and with
+Microsoft tools, not aiming to migrate careers. just consider these
+skills as a plus (good to have).
+
+Another important thing I need to mention is Microsoft Azure, which I started anyway.
+time to use and learn more, and nowadays it's the cloud platform I usually use or
+I have more experience, although I have also used Amazon AWS on some freelancers.
+
+Talk a little about my profile, I'm interested in software development in a way
+in general, although my main experience is C#, I am open and always willing to learn
+other languages and tools. 
+
+I am very analytical and I always prioritize quality, but I like to
+perform most practical activities most of the time and I am willing to solve problems
+and present solutions based on past experiences
 
 Languages I specialize in:
 .NET Core / .NET Framework, PHP Laravel (LAMP Stack),
@@ -28,12 +53,38 @@ DevOps Skills and Certificates in MSSQL Server
 
   #### [Portuguese]
 
-Olá! Meu nome é Luiz Fernando, tenho 38 anos e sou de São Paulo.
-Em 1999, tive a oportunidade de estagiar em uma empresa de Tecnologia iniciando com Suporte e Manutenção de Redes e no mesmo ano tive o meu primeiro contato com o Javascript e o ASP e PHP.
+Me chamo Fernando, tenho 39 anos, sou de São Paulo, Brasil, e iniciei minha carreira na área de 
+TI em 1999, trabalhando com suporte ao usuário e manutenção de PC quando estava no ensino 
+médio, e este foi meu primeiro contato com algumas linguagens de programação como PHP, 
+Javascript, Delphi e VB.   
 
-No decorrer desta trajetória, tive a oportunidade de trabalhar com o desenvolvimento no Visual Studio logo nas primeiras versões (.NET Framework 1.0 e 1.1), com a linguagem VB.NET e após o C#.
+Então, me recordo que tinha muito interesse em descobrir problemas, 
+investigar os problemas do ambiente, e foi em 2002 que iniciei minha carreira como 
+desenvolvedor de software, trabalhando com o Visual Studio, .NET Framework e o Microsoft SQL 
+Server.   
 
-Gosto muito de desafios e novos frameworks e tenho incluído aqui neste repositório alguns exemplos do que estou pesquisando.
+Desde então, passei a maior parte do tempo entre 2005 e 2014 trabalhando como desenvolvedor 
+backend com .NET Framework, .NET Core, Microsoft SQL Server, nas principais empresas do Brasil 
+como bancos, seguradoras, indústria, varejo, etc.  
+
+Outro momento importante na minha carreira foi em 2014, quando decidi explorar algumas 
+novas stacks fora dos produtos ou ecossistema Microsoft explorando alguns novos frameworks 
+Javascript como Angular, VueJs, PHP Laravel e outros. Embora tenha passado por estas outras 
+stacks, vale reforçar que meu hard background é o desenvolvimento em Csharp e com 
+ferramentas Microsoft, não tendo como objetivo migrar de carreira. Apenas considere estas 
+habilidades como um plus (good to have). 
+
+Outra coisa importante que preciso mencionar é sobre o Microsoft Azure, que comecei na mesma 
+época a usar e aprender mais, e hoje em dia é a plataforma de nuvem que geralmente uso ou 
+tenho mais experiência, embora já tenha utilizado também em alguns freelancers o Amazon AWS. 
+ 
+Falar um pouco do perfil, tenho interesse em desenvolvimento de software de uma maneira 
+geral, embora minha maior experiência seja o C#, estou aberto e sempre disposto a aprender 
+outras linguagens e ferramentas. 
+
+Sou bem analitico e priorizo sempre a qualidade, mas gosto de 
+executar na maioria do tempo atividades mais práticas e estou disposto em resolver os problemas 
+e apresentar soluções baseados em experiências passadas
 
 Linguagens nas quais sou especialista: 
 .NET Core / .NET Framework, PHP Laravel (LAMP Stack),
