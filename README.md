@@ -9,38 +9,11 @@
 </a>
 
 <p>
-My name is Fernando, I'm 39 years old, I'm from São Paulo, Brazil, and I started my career in the
-IT in 1999, working in user support and PC maintenance while in teaching
-medium, and this was my first contact with some programming languages like PHP,
-Javascript, Delphi and VB. 
-
-So, I remember that I was very interested in discovering problems,
-investigating environmental problems, and it was in 2002 that I started my career as
-software developer working with Visual Studio, .NET Framework and Microsoft SQL
-Server.
-
-Since then I spent most of my time between 2005 and 2014 working as a developer
-backend with .NET Framework, .NET Core, Microsoft SQL Server, in the main companies in Brazil
-such as banks, insurance companies, industry, retail, etc.
-
-Another important moment in my career was in 2014, when I decided to explore some
-new stacks outside Microsoft products or ecosystem exploring some new frameworks
-Javascript like Angular, VueJs, PHP Laravel and others. Although I went through these other
-stacks, it is worth emphasizing that my hard background is development in csharp and with
-Microsoft tools, not aiming to migrate careers. just consider these
-skills as a plus (good to have).
-
-Another important thing I need to mention is Microsoft Azure, which I started anyway.
-time to use and learn more, and nowadays it's the cloud platform I usually use or
-I have more experience, although I have also used Amazon AWS on some freelancers.
-
-Talk a little about my profile, I'm interested in software development in a way
-in general, although my main experience is C#, I am open and always willing to learn
-other languages and tools. 
-
-I am very analytical and I always prioritize quality, but I like to
-perform most practical activities most of the time and I am willing to solve problems
-and present solutions based on past experiences
+I’m Fernando, 39 years old from Sao Paolo, Brasil and I had started my carrear in IT area in 1999, working with user support and PC maintenance when I was in the high school. I remember at this time, that was my first contact with some many programming languages like Basic, Delphi, PHP, Javascript, Classic ASP and Microsoft SQL Server database. Like all developers, I was very curious about to solve problems and this why I had my first opportunity in 2002 and started to work with Microsoft Visual Studio, with Csharp and VB.NET accomplished with SQL Server databases.
+Since then, I passed most part of my carrear between 2002 and 2014 working like a backend developer like I mentioned, using .NET Framework for Windows Forms applications and ASP.NET Forms, MS SQL Server, long time after ASP.NET MVC and in the last years, .NET Core.
+Another important momento in my carrear was in 2014, when I decided to explore some new stacks out of the Microsoft ecosystem. I started to work with someones Javascript frameworks like AngularJs, Angular 2+, VueJs, NodeJs, Express and so on. Althought I have passed and had this experience, it’s good to emphase that my hard background is the Csharp language with the Microsoft stack tools and I don’t have plans to migrate my carrear at this moment. Just consider that this skills is a plus, ok?  (good to have)
+Another important thing that I need to mention is about the cloud platform that I generally use. Is the Microsft Azure. My main experience is in this platform and I am confortable to deliver the best solution in there. But in some projects, I had the opportunity to use another cloud platforms like Amazon AWS, but actually just studying the compatible services on this platform like Lambda, Amazon SNS, etc.
+Well, to be honest, I’m interest in software development at all and althought most part of time I used to Csharp language, I am open and always willing to learn some new abilities, tools and languages.
 
 Languages I specialize in:
 .NET Core / .NET Framework, PHP Laravel (LAMP Stack),
@@ -53,38 +26,11 @@ DevOps Skills and Certificates in MSSQL Server
 
   #### [Portuguese]
 
-Me chamo Fernando, tenho 39 anos, sou de São Paulo, Brasil, e iniciei minha carreira na área de 
-TI em 1999, trabalhando com suporte ao usuário e manutenção de PC quando estava no ensino 
-médio, e este foi meu primeiro contato com algumas linguagens de programação como PHP, 
-Javascript, Delphi e VB.   
-
-Então, me recordo que tinha muito interesse em descobrir problemas, 
-investigar os problemas do ambiente, e foi em 2002 que iniciei minha carreira como 
-desenvolvedor de software, trabalhando com o Visual Studio, .NET Framework e o Microsoft SQL 
-Server.   
-
-Desde então, passei a maior parte do tempo entre 2005 e 2014 trabalhando como desenvolvedor 
-backend com .NET Framework, .NET Core, Microsoft SQL Server, nas principais empresas do Brasil 
-como bancos, seguradoras, indústria, varejo, etc.  
-
-Outro momento importante na minha carreira foi em 2014, quando decidi explorar algumas 
-novas stacks fora dos produtos ou ecossistema Microsoft explorando alguns novos frameworks 
-Javascript como Angular, VueJs, PHP Laravel e outros. Embora tenha passado por estas outras 
-stacks, vale reforçar que meu hard background é o desenvolvimento em Csharp e com 
-ferramentas Microsoft, não tendo como objetivo migrar de carreira. Apenas considere estas 
-habilidades como um plus (good to have). 
-
-Outra coisa importante que preciso mencionar é sobre o Microsoft Azure, que comecei na mesma 
-época a usar e aprender mais, e hoje em dia é a plataforma de nuvem que geralmente uso ou 
-tenho mais experiência, embora já tenha utilizado também em alguns freelancers o Amazon AWS. 
- 
-Falar um pouco do perfil, tenho interesse em desenvolvimento de software de uma maneira 
-geral, embora minha maior experiência seja o C#, estou aberto e sempre disposto a aprender 
-outras linguagens e ferramentas. 
-
-Sou bem analitico e priorizo sempre a qualidade, mas gosto de 
-executar na maioria do tempo atividades mais práticas e estou disposto em resolver os problemas 
-e apresentar soluções baseados em experiências passadas
+Me chamo Fernando, tenho 39 anos e sou de São Paulo, Brasil e comecei minha carreira na área de TI em 1999, trabalhando com suporte ao usuário e manutenção de PC quando estava no ensino médio. Lembro que nessa época, foi meu primeiro contato com várias linguagens de programação como Basic, Delphi, PHP, Javascript, Classic ASP e banco de dados Microsoft SQL Server. Como todo desenvolvedor, eu tinha muita curiosidade em resolver problemas e por isso tive minha primeira oportunidade em 2002 e comecei a trabalhar com Microsoft Visual Studio, com Csharp e VB.NET realizado com bancos de dados SQL Server.
+Desde então, passei a maior parte da minha carreira entre 2002 e 2014 trabalhando como desenvolvedor backend como mencionei, usando .NET Framework para aplicativos Windows Forms e ASP.NET Forms, MS SQL Server, muito tempo depois do ASP.NET MVC e em últimos anos, .NET Core.
+Outro momento importante da minha carreira foi em 2014, quando decidi explorar algumas novas pilhas do ecossistema Microsoft. Comecei a trabalhar com estruturas Javascript de alguém como AngularJs, Angular 2+, VueJs, NodeJs, Express e assim por diante. Apesar de ter passado e ter tido essa experiência, é bom ressaltar que meu hard background é a linguagem Csharp com as ferramentas stack da Microsoft e não tenho planos de migrar de carreira no momento. Apenas considere que essa habilidade é uma vantagem, ok? (good to have)
+Outra coisa importante que preciso mencionar é sobre a plataforma de nuvem que geralmente uso. É o Microsoft Azure. Minha experiência principal é nesta plataforma e me sinto confortável para entregar a melhor solução nela. Mas em alguns projetos, tive a oportunidade de usar outras plataformas de nuvem como Amazon AWS, mas na verdade apenas estudando os serviços compatíveis nesta plataforma como Lambda, Amazon SNS, etc.
+Bem, para ser honesto, estou interessado em desenvolvimento de software e, embora na maior parte do tempo eu tenha usado a linguagem Csharp, estou aberto e sempre disposto a aprender algumas novas habilidades, ferramentas e linguagens
 
 Linguagens nas quais sou especialista: 
 .NET Core / .NET Framework, PHP Laravel (LAMP Stack),
