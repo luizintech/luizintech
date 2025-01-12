@@ -9,7 +9,7 @@
 </a>
 
 <p>
-I’m Fernando, 40 years old from Sao Paolo, Brasil and I had started my carrear in IT area in 1999, working with user support and PC maintenance when I was in the high school.    
+I’m Fernando, 41 years old from Sao Paolo, Brasil and I had started my carrear in IT area in 1999, working with user support and PC maintenance when I was in the high school.    
   
 I remember at this time, that was my first contact with some many programming languages like Basic, Delphi, PHP, Javascript, Classic ASP and Microsoft SQL Server database.     
   
@@ -36,7 +36,7 @@ DevOps Skills and Certificates in MSSQL Server
 
   #### [Portuguese]
 
-Me chamo Fernando, tenho 40 anos e sou de São Paulo, Brasil e comecei minha carreira na área de TI em 1999, trabalhando com suporte ao usuário e manutenção de PC quando estava no ensino médio.      
+Me chamo Fernando, tenho 41 anos e sou de São Paulo, Brasil e comecei minha carreira na área de TI em 1999, trabalhando com suporte ao usuário e manutenção de PC quando estava no ensino médio.      
   
 Lembro que nessa época, foi meu primeiro contato com várias linguagens de programação como Basic, Delphi, PHP, Javascript, Classic ASP e banco de dados Microsoft SQL Server.      
   
